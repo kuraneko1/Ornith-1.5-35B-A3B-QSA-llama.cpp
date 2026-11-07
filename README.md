@@ -81,6 +81,12 @@ Weights are kept in a private Hugging Face repository:
 `higa2515/Ornith-1.5-35B-A3B-QSA` (Q8_0 GGUF, mmproj, distilled indexer checkpoint).
 They are not redistributed here. Base model terms apply.
 
+## Figures
+
+The benchmark figures are produced with
+[`kuraneko1/benchmark-rebuild`](https://github.com/kuraneko1/benchmark-rebuild)
+(L02 parallel panels, C06 line chart).
+
 ## Measured example
 
 Only the V100 configuration is measured so far. See [docs/V100.md](docs/V100.md) for the
